@@ -18,14 +18,11 @@ Kelas : TP-B Pagi
 
 -Knolwledge Representation adalah suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedur pemecahan masalah.
 
--Automated Reasoning 
-Penalaran otomatis merupakan bidang ilmu komputer dan logika matematika didedikasikan untuk memahami berbagai aspek penalaran.
+-Automated Reasoning Penalaran otomatis merupakan bidang ilmu komputer dan logika matematika didedikasikan untuk memahami berbagai aspek penalaran.
 
--Machine Learning 
-Pembelajaran mesin, adalah sebuah cabang dari kecerdasan buatan, Inti dari mesin belajar berkaitan dengan representasi dan generalisasi
+-Machine Learning Pembelajaran mesin, adalah sebuah cabang dari kecerdasan buatan, Inti dari mesin belajar berkaitan dengan representasi dan generalisasi
 
--Computer Vision
-Visi komputer adalah bidang yang mencakup metode untuk memperoleh , mengolah , menganalisis, dan pemahaman gambar dan secara umum , data dimensi tinggi dari dunia nyata untuk menghasilkan informasi numerik atau simbolis, misalnya, dalam bentuk keputusan .
+-Computer Vision Visi komputer adalah bidang yang mencakup metode untuk memperoleh , mengolah , menganalisis, dan pemahaman gambar dan secara umum , data dimensi tinggi dari dunia nyata untuk menghasilkan informasi numerik atau simbolis, misalnya, dalam bentuk keputusan.
 
 -Robotika
 Robotika adalah cabang dari teknologi yang berhubungan dengan desain, konstruksi, operasi, dan aplikasi robot.
