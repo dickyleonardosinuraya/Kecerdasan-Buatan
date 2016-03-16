@@ -17,19 +17,19 @@ Kelas : TP-B Pagi
 -Pengolahan Bahasa Alami(Pemrosesan Bahasa Alami) atau Natural Language Processing (NLP)adalah komponen penting dalam text mining dan subbidang dalam kecerdasan buatan (artificial intelligence/AI) dan komputasi linguistic. Dia mempelajari tentang bagaimana ‘memahami’  bahasa manusia alami, dengan cara mengubah gambaran bahasa manusia (seperti dokumen teks) menjadi penyajian yang lebih formal (dalam bentuk data numeric dan sombolik) yang lebih mudah untuk dimanupulasi oleh program computer. Tujuan NLP adalah untuk melangkah melebihi manipulasi teks berbasis sintaks (yang sering kali disebut dengan ‘word counting’) ke pemahaman yang benar dan memproses bahasa alami yang mempertimbangkan berbagai batasan semantik dan gramatikal dan juga konteks.
 
 -Knolwledge Representation 
-    adalah suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh             prosedurpemecahan masalah.
+    adalah suatu proses untuk menangkap sifat-sifat penting problema dan membuat informasi tersebut dapat diakses oleh prosedurpemecahan masalah.
 
 -Automated Reasoning 
 
-   Penalaran otomatis merupakan bidang ilmu komputer dan logika matematika didedikasikan untuk memahami berbagai aspek            penalaran.
+   Penalaran otomatis merupakan bidang ilmu komputer dan logika matematika didedikasikan untuk memahami berbagai aspek penalaran.
 
 -Machine Learning 
 
-   Pembelajaran mesin, adalah sebuah cabang dari kecerdasan buatan, Inti dari mesin belajar berkaitan dengan representasi dan     generalisasi
+   Pembelajaran mesin, adalah sebuah cabang dari kecerdasan buatan, Inti dari mesin belajar berkaitan dengan representasi dan generalisasi
 
 -Computer Vision
 
-   Visi komputer adalah bidang yang mencakup metode untuk memperoleh , mengolah , menganalisis, dan pemahaman gambar dan ,         secara umum , data dimensi tinggi dari dunia nyata untuk menghasilkan informasi numerik atau simbolis, misalnya, dalam         bentuk keputusan .
+   Visi komputer adalah bidang yang mencakup metode untuk memperoleh , mengolah , menganalisis, dan pemahaman gambar dan ,secara umum , data dimensi tinggi dari dunia nyata untuk menghasilkan informasi numerik atau simbolis, misalnya, dalam         bentuk keputusan .
 
 -Robotika
 
